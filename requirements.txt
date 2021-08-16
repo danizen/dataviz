@@ -1,0 +1,16 @@
+ipython
+numpy
+pandas
+matplotlib
+seaborn
+statsmodels
+jupyter
+xlrd
+openpyxl
+faker
+bokeh
+pyproj	# cartographic projections
+patsy
+sklearn
+nlm-alma-api
+
